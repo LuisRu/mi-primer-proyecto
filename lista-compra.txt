@@ -2,4 +2,5 @@ lechuga
 tomate
 aceite
 vinagre
-sall
+sal
+atun
